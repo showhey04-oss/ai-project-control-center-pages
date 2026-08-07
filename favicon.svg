@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="AI Project Control Center">
+  <rect width="64" height="64" rx="14" fill="#315f51"/>
+  <path d="M18 18h11v11H18zM35 18h11v11H35zM18 35h11v11H18z" fill="#f7f9f8"/>
+  <path d="M40.5 34.5a6 6 0 1 1 0 12 6 6 0 0 1 0-12Zm0 3.5a2.5 2.5 0 1 0 0 5 2.5 2.5 0 0 0 0-5Z" fill="#b8d0c7"/>
+  <path d="M29 23.5h6M23.5 29v6M29 40.5h5.5" stroke="#b8d0c7" stroke-width="3" stroke-linecap="round"/>
+</svg>

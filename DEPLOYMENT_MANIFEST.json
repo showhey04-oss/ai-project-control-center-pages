@@ -1,0 +1,118 @@
+{
+  "schema_version": 1,
+  "deployment_mode": "MODE_C_PUBLIC_GITHUB_PAGES",
+  "application_version": "0.3.0",
+  "public_app_shell": true,
+  "application_data": "BROWSER_LOCAL_NOT_SERVER_STORED",
+  "source_repository": "showhey04-oss/ai-project-control-center",
+  "source_commit": "b1933cd8101a0a5552736921e4161ca7e69faee1",
+  "source_tree": "6fb72b07fffd1c06ab56e18265300146c9cb061d",
+  "deployment_repository": "showhey04-oss/ai-project-control-center-pages",
+  "canonical_url": "https://showhey04-oss.github.io/ai-project-control-center-pages/",
+  "base_path": "/ai-project-control-center-pages/",
+  "build_id": "0.3.0-pages",
+  "schema_registry": {
+    "project_portfolio_id": "https://example.local/schemas/project-portfolio/1.1.0.schema.json",
+    "project_portfolio_sha256": "bfd2f6fef7210da6c0c4ab1c453170b7df667fa163f3c61aa20310e74bdc6732",
+    "project_status_id": "https://example.local/schemas/project-status/2.0.0.schema.json",
+    "project_status_sha256": "9b36ceea4d242144f5ab97f2115e665a7428f4115585e1a354a7b47853e41e57",
+    "note": "Identity and provenance only. Runtime validation uses bundled generated validators and does not fetch Schema URLs."
+  },
+  "database_version": 1,
+  "generated_artifact_inventory": {
+    "files": [
+      {
+        "path": ".nojekyll",
+        "bytes": 1,
+        "sha256": "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b"
+      },
+      {
+        "path": "apcc-connectivity-check.txt",
+        "bytes": 24,
+        "sha256": "2cc0775dfe6f9befc5dd5f1eb2318b91e23c135055f73ab46166646661f82184"
+      },
+      {
+        "path": "assets/bootstrap-BdNdQRox.js",
+        "bytes": 740548,
+        "sha256": "75a0806a457ffa6e0b4cf5036e2a44d4cdb0a0c1eb9b9244a18d7aac12f56f21"
+      },
+      {
+        "path": "assets/bootstrap-K6UjtyVn.css",
+        "bytes": 45744,
+        "sha256": "2e1293a48b6afc6c3dd72e3e357cb5b2b158f6dee0eb9c47aefec8ba5a0badbb"
+      },
+      {
+        "path": "assets/index-Cnef-oVs.css",
+        "bytes": 1553,
+        "sha256": "c78e446b484e1142cca59c16372bd1b1117615127206579c4335df4a463649cc"
+      },
+      {
+        "path": "assets/index-DcGzBQi3.js",
+        "bytes": 3303,
+        "sha256": "bac275d54ce37d84d2e46a36582dd3e8b7b86c196b362bfadba6b8b84ba99df2"
+      },
+      {
+        "path": "assets/workbox-window.prod.es5-DXk5hhZK.js",
+        "bytes": 5744,
+        "sha256": "7b0df6375c8daeee0fece27714f4194268b5135469b659bde03dc49dbea50fd1"
+      },
+      {
+        "path": "favicon.svg",
+        "bytes": 470,
+        "sha256": "0e198c65f006d8ae862f544c2c3c2930243e647dd2cbb762d5892344800098fb"
+      },
+      {
+        "path": "icons/apcc-icon-192.png",
+        "bytes": 9932,
+        "sha256": "04420d777e17ddb51d425c22c6ece1290d3b8ed9b2291842461cbebadcad3f36"
+      },
+      {
+        "path": "icons/apcc-icon-512.png",
+        "bytes": 19865,
+        "sha256": "6d4f0966da03fbd8430a45d03ebc9e032b3dc6cb0296230af528f55818ef44f5"
+      },
+      {
+        "path": "icons/apcc-icon-maskable-512.png",
+        "bytes": 12193,
+        "sha256": "f113957dc21d8c535aad0fd06d690ce601bd422f4d6eb1c2e56b5d8d51c4473e"
+      },
+      {
+        "path": "icons/apcc-icon-maskable-source.svg",
+        "bytes": 561,
+        "sha256": "f34a31eb8d3885d89283df195a16b7336a9af28a12277bb8442dba411613fae4"
+      },
+      {
+        "path": "icons/apcc-icon-source.svg",
+        "bytes": 639,
+        "sha256": "2e9b422dd14f1d40077e2c6d394c069b78175e6814e82a662ad64ddecd4c396d"
+      },
+      {
+        "path": "icons/apple-touch-icon-180.png",
+        "bytes": 9251,
+        "sha256": "a60b8f3c5d007f55c40966edd5c1bdbc37a267dc6d73c7068761b546b5faf902"
+      },
+      {
+        "path": "index.html",
+        "bytes": 1753,
+        "sha256": "17a102fa52b0de0cb5d29516a49684db11ad1857b537634bea842ed6270835a8"
+      },
+      {
+        "path": "manifest.webmanifest",
+        "bytes": 691,
+        "sha256": "81398acae62f542095c49e96632593fe3ebf94e8647677aafd792239abab94d3"
+      },
+      {
+        "path": "sw.js",
+        "bytes": 1806,
+        "sha256": "72891941a0e21dc52258f500b1107a54761bb63b7e92fa52dd20d596d284095a"
+      },
+      {
+        "path": "workbox-2fbc6a65.js",
+        "bytes": 15026,
+        "sha256": "39c2e6ae44c3f29666f6a328b6523bf13a053a1d95c74af8ddea82b1045b0b6e"
+      }
+    ],
+    "totalBytes": 869104,
+    "aggregateSha256": "95651718fd958b21a9b9de1344be4a2467275b86e5256c74bff102c3a59957f1"
+  }
+}
